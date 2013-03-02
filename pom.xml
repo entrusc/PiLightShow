@@ -58,7 +58,7 @@
                     <archive>
                         <manifest>
                             <mainClass>${project.build.mainClass}</mainClass>
-                            <packageName>de.darkblue.moebius</packageName>
+                            <packageName>de.darkblue.pi.lightshow</packageName>
                             <addClasspath>true</addClasspath>
                             <addExtensions/>
                             <classpathLayoutType>custom</classpathLayoutType>
